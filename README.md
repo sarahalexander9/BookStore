@@ -2,7 +2,7 @@
 
 This application is meant to keep track of books a user wants to read before the end of the year. 
 
-Run the server, then npm run start!
+Run the server, then (in the bookable folder) npm run start!
 
 This README would normally document whatever steps are necessary to get the
 application up and running.
